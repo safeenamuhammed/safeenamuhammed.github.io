@@ -12,27 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # FAB LAB WORKSHOP
- 15 DAYS WORKSHOP PROGRAMME
-## 
-### Header 3
+ 
+## ABOUT ME
 
-- Bulleted
-- List
+A young lady from perinthalmanna, Kerala, pursuing the 4th year of B.Tech in the stream of Electronics and communication Engineering from MES College of Engineering, Kuttippuram. Always curious to learn about the modern world and technology.
+email id:safeenaayisha1997@gmail.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/safeenamuhammed/safeenamuhammed.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##FAB LAB
