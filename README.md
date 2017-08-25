@@ -11,8 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# FAB LAB WORKSHOP
+ 15 DAYS WORKSHOP PROGRAMME
+## 
 ### Header 3
 
 - Bulleted
