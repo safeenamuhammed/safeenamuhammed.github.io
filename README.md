@@ -34,3 +34,6 @@ It is a seven day fab lab training program.
 *Laser Cutting,Moulding and Casting
 
 *Project
+
+### FAB LAB TEAM
+<img.src="‪C:\Users\Acer\Desktop\safeena\IMG_20170829">
