@@ -35,5 +35,4 @@ It is a seven day fab lab training program.
 
 *Project
 
-### FAB LAB TEAM
-<img.src="‪C:\Users\Acer\Desktop\safeena\IMG_20170829">
+### FAB LAB TEAMS
