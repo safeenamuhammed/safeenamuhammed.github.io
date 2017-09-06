@@ -15,7 +15,9 @@ The Kerala Startup mission is setting up Fab Labs in the state in collaboration 
 ### ABOUT THE COURSE
 This course is that we are attending started on 23/08/2017.We are being mentored by Mr. JASEEL MOHAMMAD, he is one of the few graduate from fablab academy Trivandrum.
 
-### COURSE OF CONTENT
+It is a seven day fab lab training program.
+
+### COURSE CONTENTS
 
 *Introduction to Fablab
 
