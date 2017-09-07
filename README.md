@@ -74,6 +74,8 @@ You can follow this link if you need help https://guides.github.com/features/mas
 ### [LASER CUTTING](http://safeenamuhammed.github.io/day4)
 ## DAY 5
 ### [ELECTRONICS PRODUCTION AND CNC](https://safeenamuhammed.github.io/day5)
+## DAY 6
+### [VINYL CUTTING](https://safeenamuhammed.github.io/day6)
 
  
 
