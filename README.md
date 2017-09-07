@@ -55,7 +55,7 @@ We got an overview of how the seven days were going to be spent at FABLAB. We we
 ### GITHUB PAGES AND DOCUMENTATION
 ![th 6](https://user-images.githubusercontent.com/31272035/30158984-28071d68-93d8-11e7-9ae1-dd141c728c31.jpg)
 
-GitHub Pages is a static site hosting service.GitHub Pages is designed to host a personal, organization, or project pages directly from a GitHub repository. To learn more about the different types of GitHub Pages sites, see “User, organization, and project pages.”You can create and publish GitHub Pages online using the Jekyll Theme Chooser. If you prefer to work locally, you can use GitHub Desktop or the command line. One can easily code a wabsite using the GITHUB
+**GitHub** Pages is a static site hosting service.GitHub Pages is designed to host a personal, organization, or project pages directly from a GitHub repository. To learn more about the different types of GitHub Pages sites, see “User, organization, and project pages.”You can create and publish GitHub Pages online using the Jekyll Theme Chooser. If you prefer to work locally, you can use GitHub Desktop or the command line. One can easily code a wabsite using the GITHUB
 
 **STEPS**
 
