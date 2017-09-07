@@ -71,6 +71,8 @@ Now you are ready to go. Open the file and edit it using markdown, html or anyth
 ### [3D PRINTING](http://safeenamuhammed.github.io/day3)
 ## DAY 4
 ### [LASER CUTTING](http://safeenamuhammed.github.io/day4)
+## DAY 5
+### [ELECTRONICS PRODUCTION AND CNC](https://safeenamuhammed.github.io/day5)
 
  
 
