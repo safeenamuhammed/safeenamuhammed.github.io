@@ -13,7 +13,7 @@
 
 Here’s a short list example of software that can be used.
 
-For** raster images**:
+For **raster images**:
 Gimp (free software) Gimp Download Information Photoshop (An old but legally free version of Adobe Photoshop can be
 downloaded: Adobe Photoshop CS2 )
 
@@ -23,7 +23,8 @@ software as if it’s a printer. Different results can be accomplished by adjust
 
 Here also we use Rhinocerous software for designing the model.
  
- ### CONFIGURATION
- ### CONTROL PANEL
+ #### CONFIGURATION
+ ![f6jk05lgbbh8kqi medium](https://user-images.githubusercontent.com/31272035/30180358-ae6cdeea-9420-11e7-88b2-4010ef24fcf6.jpg)
+ #### CONTROL PANEL
 
  
