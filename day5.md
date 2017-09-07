@@ -34,6 +34,7 @@ The software used is EAGLE (Easily Applicable Graphical Layout Editor) , a scrip
 * Next select the process foam rough cut(1/8). 
 * PARAMETERS SHOWING
 ![29829397-f457d930-8cfc-11e7-90ad-6ac525fb1ba4](https://user-images.githubusercontent.com/31272035/30182814-3bd15e2a-9429-11e7-81b3-6030333d8cb1.PNG) 
+![29829758-dd5d4106-8cfd-11e7-9d42-9caf248d3b68](https://user-images.githubusercontent.com/31272035/30182817-3e9f4bb2-9429-11e7-9d13-d0887a3f4020.jpg)
 
  
  
