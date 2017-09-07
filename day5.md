@@ -25,6 +25,8 @@ The main component is a board. We use copper boards even though silver boards ar
 The software used is EAGLE (Easily Applicable Graphical Layout Editor) , a scriptable electronic design automation application with schematic capture, printed circuit board layout, auto-router and computer-aided manufacturing features.
 
 ###  STEPS FOR PCB MILLING.
+![29829299-b137d7a4-8cfc-11e7-8bce-7074cf3e056a 1](https://user-images.githubusercontent.com/31272035/30182247-33c04cfc-9427-11e7-8ed6-e712cddeaa2d.PNG)
+
 
 * The image for PCB Milling is downloaded from FABMODULES. Now image is opened in the software as input in SPB format.
 
