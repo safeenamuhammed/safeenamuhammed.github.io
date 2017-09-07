@@ -17,6 +17,8 @@ automated by cams alone
 CNC stands for computer numerical control. A CNC can be used in the production of many different items, such as printed circuit 
 board, door carvings, interior and exterior decorations, wood panels, sign boards, wooden frames, moldings, musical instruments, 
 furniture, and so on.
+![milling 1](https://user-images.githubusercontent.com/31272035/30182205-114141fe-9427-11e7-9a8f-2a05637b636c.jpg)
+
 The main component is a board. We use copper boards even though silver boards are better since the latter is expensive. FR-4 board is used in the lab. There are available i 2 sizes.
 - 1/32 which is maainly used for cuttting. - 1/64 which is mainly ised for hutching
 
