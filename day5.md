@@ -27,11 +27,14 @@ The software used is EAGLE (Easily Applicable Graphical Layout Editor) , a scrip
 ###  STEPS FOR PCB MILLING.
 ![29829299-b137d7a4-8cfc-11e7-8bce-7074cf3e056a 1](https://user-images.githubusercontent.com/31272035/30182247-33c04cfc-9427-11e7-8ed6-e712cddeaa2d.PNG)
 
-
 * The image for PCB Milling is downloaded from FABMODULES. Now image is opened in the software as input in SPB format.
 
 * Now select the output form.
+
 * Next select the process foam rough cut(1/8). 
+* PARAMETERS SHOWING
+![29829397-f457d930-8cfc-11e7-90ad-6ac525fb1ba4](https://user-images.githubusercontent.com/31272035/30182814-3bd15e2a-9429-11e7-81b3-6030333d8cb1.PNG) 
+
  
  
 
