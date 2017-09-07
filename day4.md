@@ -1,5 +1,5 @@
 # LASER CUTTING
- ## WHAT IS LASER CUTTING?
+## WHAT IS LASER CUTTING?
  Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing 
  applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by 
  directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control)
@@ -22,8 +22,8 @@ DraftSight AutoCAD Adobe Illustrator Inkscape (free software) Download Options f
 software as if it’s a printer. Different results can be accomplished by adjusting the speed and power of the laser.
 
 Here also we use Rhinocerous software for designing the model.
- 
- #### CONFIGURATION
+
+#### CONFIGURATION
  ![f6jk05lgbbh8kqi medium](https://user-images.githubusercontent.com/31272035/30180358-ae6cdeea-9420-11e7-88b2-4010ef24fcf6.jpg)
  ![fr4v62pgb5hdbyt small](https://user-images.githubusercontent.com/31272035/30180372-b8638aac-9420-11e7-98e6-ab4293d398c9.jpg)
  
