@@ -6,6 +6,7 @@
  Right click and select trace the image outline. Change the settings as required and press enter key. Now you can adjust 
  the size of vinyl to be used : Right click on the image and select Properties. ( The size is in mm .) Your design is ready 
  to be cut.
+ 
  ![roland 1](https://user-images.githubusercontent.com/31272035/30184344-e242d9be-942e-11e7-801d-7011fc107f38.jpg)
  
 
@@ -25,6 +26,8 @@ To cut texts:
 5-Press Ok button.
 
 ### LOADING THE VINYL
+
+![image3](https://user-images.githubusercontent.com/31272035/30184537-74cacaa8-942f-11e7-8728-5990a1971201.JPG)
 
 Load the sample piece of vinyl into the machine. On the left side in the front and back are two LED ‘eyes’. These are infared 
 emitters and receivers which sense the presence of the vinyl. You have to position the vinyl so that it will cover these sensors.
