@@ -38,6 +38,8 @@ holding the vinyl between the rollers and the pressure bar.
 
 ### CHECKING IN THE DISPLAY
 
+![vnyl22](https://user-images.githubusercontent.com/31272035/30184655-cf04a41c-942f-11e7-8d06-afba89131387.jpg)
+
  It shoulde say Sheer unloaded intil you engage the pressure roller. Then you will need to use the down arrow to tell the 
  machine you have loaded a piece or a roll. If you choose piece, the cutter head will move sideways, measure the space between
  the rollers, then it will move the piece out, the back in, then to its original position. This process used the ‘eyes’ to measure
