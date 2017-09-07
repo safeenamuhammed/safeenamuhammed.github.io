@@ -51,6 +51,7 @@ It is a seven day fab lab training program.
 “FabLab - MESCE” is digital manufacturing technology, combininig 2D and 3D design with the latest fabrication technology. Embracing a broad spectrum of methods ranging from CNC machining to 3D printing, and even PCB Milling. It can produce a single unique product from a digital design in a matter of minutes- and at a very low cost in comparison to traditional tooling methods.
 
 We got an overview of how the seven days were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more .
+
 ## DAY 2
 ### GITHUB PAGES AND DOCUMENTATION
 ![th 6](https://user-images.githubusercontent.com/31272035/30158984-28071d68-93d8-11e7-9ae1-dd141c728c31.jpg)
