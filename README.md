@@ -19,6 +19,9 @@ Fab Labs are a global network of labs, enabling invention by providing access in
 The Kerala Startup mission is setting up Fab Labs in the state in collaboration with the Massachusetts Institute of Technology Centre of Bits and Atoms. Dr Neil Gershenfeld, director of the MIT Centre for Bits and Atoms pioneered the concept of fab lab.Fab Labs (Fabrication Laboratories) are facilities where people with minimal training can design and manufacture any product using advanced manufacturing machines linked to a computer. Fab Lab at MESCE , Kuttippuram is the only fab lab in the Malabar Zone .It consist of mordern machines such as 3D printer,laser cutter and CNC machines.It provides oppurtunities to make anything.This lab helps any person’s design to get out of paper.
 
 ### ABOUT THE COURSE
+![lecture 01](https://user-images.githubusercontent.com/31272035/30148615-4ef30d06-93b5-11e7-850c-1629287075e6.jpg)
+
+
 This course is that we are attending started on 23/08/2017.We are being mentored by Mr. JASEEL MOHAMMAD, he is one of the few graduate from fablab academy Trivandrum.
 
 It is a seven day fab lab training program.
