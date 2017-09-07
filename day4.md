@@ -1,5 +1,6 @@
 # LASER CUTTING
 ## WHAT IS LASER CUTTING?
+
  Laser cutting is a technology that uses a laser to cut materials, and is typically used for industrial manufacturing 
  applications, but is also starting to be used by schools, small businesses, and hobbyists. Laser cutting works by 
  directing the output of a high-power laser most commonly through optics. The laser optics and CNC (computer numerical control)
