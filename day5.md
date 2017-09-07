@@ -7,12 +7,13 @@ Eagle Software ascertains itself as a paramount institution in provid ing softwa
 Micro-Finance, Insurance and Immigration. We develop mobile phone games, online lott ery applications and deliver value added 
 services for mobile phone ga mes. We deliver end-to-end solutions for web and desktop applications based on Smart Card / RFID
 Solutionstechnology.
-#### CNC
+### CNC
 Computer numerical control (CNC) is the automation of machine tools by means of computers executing pre-programmed sequences
 of machine control commands.This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically
 automated by cams alone
 ### SHOPBOT CNC
 
+![shopbot](https://user-images.githubusercontent.com/31272035/30182195-06511c06-9427-11e7-9f32-90650540de7b.jpg)
 CNC stands for computer numerical control. A CNC can be used in the production of many different items, such as printed circuit 
 board, door carvings, interior and exterior decorations, wood panels, sign boards, wooden frames, moldings, musical instruments, 
 furniture, and so on.
