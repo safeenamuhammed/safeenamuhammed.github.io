@@ -45,6 +45,7 @@ holding the vinyl between the rollers and the pressure bar.
  the rollers, then it will move the piece out, the back in, then to its original position. This process used the ‘eyes’ to measure
  the height of the piece. you then should be able to see the readout on the display of the pieces measurements.
 ### CUTTING
+![image4](https://user-images.githubusercontent.com/31272035/30184898-95dde9ea-9430-11e7-8858-e2d4319ff793.JPG)
 
 Press the Cut button on the icon bar. The cutter head should then move side to side and the vinyl should move back and forth.
 
