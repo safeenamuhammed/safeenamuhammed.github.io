@@ -3,7 +3,10 @@ The term “3D printing” originally referred to a process that deposits a bind
 heads layer by layer. More recently, the term is being used in popular vernacular to encompass a wider variety of additive manufacturing
 techniques. United States and global technical standards use the official term additive manufacturing for this broader sense. 
 ISO/ASTM52900-15 defines seven categories of AM processes within its meaning: binder jetting, directed energy deposition, material 
-extrusion, material jetting, powder bed fusion, sheet lamination and vat photopolymerization.
+extrusion, material jetting, powder bed fusion, sheet lamination and vat photopolymerization
+![photo_2017-08-03_19-44-53 1](https://user-images.githubusercontent.com/31272035/30161365-39ca45e4-93e1-11e7-8d16-ec6e886e8e7c.jpg).
+
+
 
 STEP 1 Preparation of a model for printing
 
