@@ -51,6 +51,21 @@ It is a seven day fab lab training program.
 “FabLab - MESCE” is digital manufacturing technology, combininig 2D and 3D design with the latest fabrication technology. Embracing a broad spectrum of methods ranging from CNC machining to 3D printing, and even PCB Milling. It can produce a single unique product from a digital design in a matter of minutes- and at a very low cost in comparison to traditional tooling methods.
 
 We got an overview of how the seven days were going to be spent at FABLAB. We went through and just got introduced to all the machines we were going to use and play with. So, today we entered the magical world and were all set to explore more .
+## DAY 2
+### GITHUB PAGES AND DOCUMENTATION
+GitHub Pages is a static site hosting service.GitHub Pages is designed to host a personal, organization, or project pages directly from a GitHub repository. To learn more about the different types of GitHub Pages sites, see “User, organization, and project pages.”You can create and publish GitHub Pages online using the Jekyll Theme Chooser. If you prefer to work locally, you can use GitHub Desktop or the command line. One can easily code a wabsite using the GITHUB
+
+**STEPS**
+
+-Create an account in github.just click on the link given
+
+-Create your project’s repository. Login to your GitHub account and go to https://github.com/new or click the New repository icon from your account homepage. -Name your repository username.github.io, replacing username with your GitHub username. Be sure it is public and go ahead and tell GitHub to create a README/index.md file upon generating the repo.
+
+Now that your repository is ready. Create a readme/index.md file .
+
+https://github.com/alirezanv/alirezanv.github.io/edit/master/index.md
+
+Now you are ready to go. Open the file and edit it using markdown, html or anything of your choice. You can follow this link if you need help https://guides.github.com/features/mastering-markdown/
 
  
 
