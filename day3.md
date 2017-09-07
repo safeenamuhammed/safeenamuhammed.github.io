@@ -8,7 +8,7 @@ extrusion, material jetting, powder bed fusion, sheet lamination and vat photopo
 
 
 
-STEP 1 Preparation of a model for printing
+### STEP 1 Preparation of a model for printing
 
 1-Prepare a 3D model and convert it into one of the following formats using any of the available 3D-modelling software (Siemens NX, 
 AutoCad, Inventor, Rhino, etc.): .STL .OBJ .DAE. .AMF
@@ -19,7 +19,7 @@ Customize the nozzle / material / speed settings in the upper left corner of the
 the model and the settings. After a while you will get the result with “Time”, “Length of plastic wire”, “Mass of plastic” specified.
 If the results are satisfying, proceed with saving. Save the model to the SD-card (from Ultimaker 2+) by pushing button.
 
-STEP 2 Printing the model in Ultimaker 2+
+### STEP 2 Printing the model in Ultimaker 2+
 
 1-Insert the SD-card with the saved 3D-model from the Cura software (in G-code format) into the slot on the Ultimaker 2+.
 
@@ -37,3 +37,12 @@ on the display procedures.
 6-Detach the printed model from the glass-plate.
 
 7-Clean the printed model from the supports, excesses of the material, etc.
+ 
+## Software Required:
+
+A few software applications were installed which would be useful in the fabrication lab. Some of the softwares that were told to be installed were:
+
+AutoCAD ( Ex. : EagleCAD, Rhinoceros) It is used for creating blueprints for our designs in mind.
+Software Required:
+Cura It is a 3D printing slicing application. This is the software that is used to turn our design image into a format 
+that can be used by the 3D printer to print the corresponding 3D object.
