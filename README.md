@@ -32,15 +32,13 @@ It is a seven day fab lab training program.
 
 * Github Pages and Documentation
 
+* 3D printing
+
+* laser cutting ,moulding and casting
+
 * Electronics Production and CNC
 
-* Vinyl Cutting
-
-* Screen Printing
-
-* 3D Printing
-
-* Laser Cutting,Moulding and Casting
+* Vinyl Cutting & screen printing
 
 * Project
 
@@ -69,6 +67,8 @@ Now that your repository is ready. Create a readme/index.md file .
 https://github.com/alirezanv/alirezanv.github.io/edit/master/index.md
 
 Now you are ready to go. Open the file and edit it using markdown, html or anything of your choice. You can follow this link if you need help https://guides.github.com/features/mastering-markdown/
+## DAY 3
+### [3D PRINTING](http://safeenamuhammed.github.io/DAY3.md)
 
  
 
