@@ -6,6 +6,9 @@
  Right click and select trace the image outline. Change the settings as required and press enter key. Now you can adjust 
  the size of vinyl to be used : Right click on the image and select Properties. ( The size is in mm .) Your design is ready 
  to be cut.
+ ![roland 1](https://user-images.githubusercontent.com/31272035/30184344-e242d9be-942e-11e7-801d-7011fc107f38.jpg)
+ 
+
 The following are the steps to do vinyl cutter.
 
 
