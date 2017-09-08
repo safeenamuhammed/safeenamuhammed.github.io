@@ -18,6 +18,8 @@ all the machines we were going to use and play with. So, today we entered the ma
 
 3-PCB Milling Machine
 
+![shopbot](https://user-images.githubusercontent.com/31272035/30200147-b94049ea-9486-11e7-8738-4280fd800370.jpg)
+
 4-LASER CUTTER
 
 #### SOFTWARE USED
