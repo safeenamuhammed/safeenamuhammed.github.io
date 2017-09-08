@@ -18,7 +18,16 @@
  
  
 
-* Now that your repository is ready. Create a readme/index.md file .
+* Now that your repository is ready. Create a readme/index.md file . 
+
+
+![1-hxxmuet8klg-iu2hrzcopa](https://user-images.githubusercontent.com/31272035/30201457-e530881c-948b-11e7-96c5-4a62008ada6c.png) 
+
+<img width="500" alt="repository" src="https://user-images.githubusercontent.com/31272035/30201468-f2c79c7c-948b-11e7-8e2f-78871256fd06.png">
+
+
+
+
 
 https://github.com/safeenamuhammed/safeenamuhammed.github.io/edit/master/index.md
 
