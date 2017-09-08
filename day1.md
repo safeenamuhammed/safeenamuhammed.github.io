@@ -10,6 +10,8 @@ all the machines we were going to use and play with. So, today we entered the ma
 #### FAB LAB AT MESCE intoduce the following machines.
 1-3D PRINTER
 
+![photo_2017-08-03_19-44-53](https://user-images.githubusercontent.com/31272035/30199906-cfbc00fc-9485-11e7-95d8-13a5185e4007.jpg)
+
 2-VINYL CUTTER
 
 3-PCB Milling Machine
