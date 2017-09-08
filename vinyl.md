@@ -15,3 +15,6 @@ time of 30 seconds, the cut piece of the protoype was obtained.
 STEP 3: Pasting
 
 COMPLETED MODEL
+
+![img-20170908-wa0010](https://user-images.githubusercontent.com/31272035/30224816-3e21f410-94e1-11e7-89e6-55d5460ea142.jpg)
+
