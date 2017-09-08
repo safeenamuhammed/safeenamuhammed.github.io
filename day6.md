@@ -1,4 +1,6 @@
  # VINYL CUTTING 
+ 
+ 
  A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. 
  The computer controls the movement of a sharp blade. This blade is used to cut out shapes and letters from sheets
   of thin self-adhesive plastic (vinyl).Create your design using any software of your choice or choose one from any
