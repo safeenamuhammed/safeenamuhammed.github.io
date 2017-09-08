@@ -8,19 +8,21 @@
   to work locally, you can use GitHub Desktop or the command line. One can easily code a wabsite using the GITHUB.
   
   **STEPS**
-
--Create an account in github.just click on the link given
-
--Create your project’s repository. Login to your GitHub account and go to https://github.com/new or click the New repository
-icon from your account homepage. -Name your repository username.github.io, replacing username with your GitHub username.
- Be sure it is public and go ahead and tell GitHub to create a README/index.md file upon generating the repo.
+ * Create an account in github.just click on the link given 
+ 
+*  Create your project’s repository. Login to your GitHub account and go to https://github.com/new or click the New repository
+  icon from your account homepage. -Name your repository username.github.io, replacing username with your GitHub username.
+    Be sure it is public and go ahead and tell GitHub to create a README/index.md file upon generating the repo.
+ 
+ <img width="400" alt="name_repo" src="https://user-images.githubusercontent.com/31272035/30201237-0813aef0-948b-11e7-9840-d6e847480c67.png">
+ 
  
 
-Now that your repository is ready. Create a readme/index.md file .
+* Now that your repository is ready. Create a readme/index.md file .
 
 https://github.com/safeenamuhammed/safeenamuhammed.github.io/edit/master/index.md
 
-Now you are ready to go. Open the file and edit it using markdown, html or anything of your choice. You can follow this
+* Now you are ready to go. Open the file and edit it using markdown, html or anything of your choice. You can follow this
 link if you need help https://guides.github.com/features/mastering-markdown/
   
   
