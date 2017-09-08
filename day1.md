@@ -14,6 +14,8 @@ all the machines we were going to use and play with. So, today we entered the ma
 
 2-VINYL CUTTER
 
+![roland 1](https://user-images.githubusercontent.com/31272035/30200012-4d9afe10-9486-11e7-8040-a4adf81beba7.jpg)
+
 3-PCB Milling Machine
 
 4-LASER CUTTER
