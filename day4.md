@@ -24,11 +24,15 @@ software as if it’s a printer. Different results can be accomplished by adjust
 
 Here also we use Rhinocerous software for designing the model.
 
-#### CONFIGURATION
- ![f6jk05lgbbh8kqi medium](https://user-images.githubusercontent.com/31272035/30180358-ae6cdeea-9420-11e7-88b2-4010ef24fcf6.jpg)
- ![fr4v62pgb5hdbyt small](https://user-images.githubusercontent.com/31272035/30180372-b8638aac-9420-11e7-98e6-ab4293d398c9.jpg)
- 
- #### CONTROL PANEL
+### CONFIGURATION 
+
+![f6jk05lgbbh8kqi medium](https://user-images.githubusercontent.com/31272035/30180358-ae6cdeea-9420-11e7-88b2-4010ef24fcf6.jpg)
+
+![fr4v62pgb5hdbyt small](https://user-images.githubusercontent.com/31272035/30180372-b8638aac-9420-11e7-98e6-ab4293d398c9.jpg)
+
+### CONTROL PANEL
+
+
  ![laser2](https://user-images.githubusercontent.com/31272035/30180382-c4fa09d0-9420-11e7-9db5-1e2b71237eb5.jpg)
 
  
