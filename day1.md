@@ -22,6 +22,8 @@ all the machines we were going to use and play with. So, today we entered the ma
 
 4-LASER CUTTER
 
+![cnc](https://user-images.githubusercontent.com/31272035/30200262-3df5ab12-9487-11e7-9e52-28b24c9eadee.jpg)
+
 #### SOFTWARE USED
   * CURA
   * EAGLE
