@@ -1,4 +1,4 @@
-  # GITHUB PAGES AND DOCUMENTATION
+# GITHUB PAGES AND DOCUMENTATION
   
   ![th 6](https://user-images.githubusercontent.com/31272035/30201074-798f39a6-948a-11e7-87e1-24f3597b9624.jpg)
   
