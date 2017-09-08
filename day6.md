@@ -1,4 +1,4 @@
- # VINYL CUTTING 
+# VINYL CUTTING 
  
  
  A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters look like computer printers. 
