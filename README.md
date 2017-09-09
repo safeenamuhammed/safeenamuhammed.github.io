@@ -59,7 +59,7 @@ It is a seven day fab lab training program.
 ## DAY 6
 ### [VINYL CUTTING](https://safeenamuhammed.github.io/day6)
 ## DAY 7
-### [PROJECTS](https://safeenamuhammed.github.io/project)
+### [PROJECTS](https://safeenamuhammed.github.io/projects)
 
  
 
