@@ -58,6 +58,8 @@ It is a seven day fab lab training program.
 ### [ELECTRONICS PRODUCTION AND CNC](https://safeenamuhammed.github.io/day5)
 ## DAY 6
 ### [VINYL CUTTING](https://safeenamuhammed.github.io/day6)
+## DAY 7
+### [PROJECTS](https://safeenamuhammed.github.io/project)
 
  
 
