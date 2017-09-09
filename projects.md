@@ -35,6 +35,7 @@ After a print time of , the the printed model is taken from the printer plte giv
 * Select the Print option from the File menu.
 
 * Select the laser cutter from Select printer menu.
+
 ![laser1](https://user-images.githubusercontent.com/31272035/30237046-52644d02-953a-11e7-9212-2040880e38d0.jpg)
 
 
